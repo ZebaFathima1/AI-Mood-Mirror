@@ -100,4 +100,4 @@ if start:
             df.to_csv(log_path, index=False)
 
     except Exception as e:
-        st.error(f"❌ Error: {e}"
+        st.error(f"❌ Error: {e}")
