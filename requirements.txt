@@ -1,7 +1,5 @@
 streamlit
-opencv-python
 deepface
+opencv-python
 pillow
 pandas
-tensorflow
-keras

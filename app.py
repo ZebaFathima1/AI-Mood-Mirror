@@ -1,4 +1,3 @@
-
 import streamlit as st
 import cv2
 from deepface import DeepFace
